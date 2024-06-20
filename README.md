@@ -1,4 +1,4 @@
-<!---
+
 Beschreibung der Applikation
 
 Die Applikation ist eine Art Helpdesk. Das Ziel ist, dass Informationen auf einem Dashboard angezeigt werden. 
@@ -9,4 +9,4 @@ wenn auf einem Gerät Updates durchgeführt werden müssen.
 Die Applikation dient dazu, Platformenentwickler eine effiziente Arbeitsumgebung zu bieten,
 in der Probleme schnell gelöst werden können, ohne Stunden mit der Überprüfung von Backups zu verschwenden.
 Dadurch können sich die Platformenentwickler auf wichtige Aufgaben konzentrieren, wie z.B. die Behebung eines Serverausfalls.
---->
+
